@@ -26,11 +26,10 @@ To view or edit the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tea-shop-frontend.git
+   https://github.com/venmathi2004/tea-shop-website.git
 2. Navigate to the project directory:
     ```bash
-        cd tea-shop-frontend
-    ```
+    cd tea-shop-frontend
 ## Usage
 
 - Open the index.html file in your web browser to view the website.
