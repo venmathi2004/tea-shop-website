@@ -42,7 +42,7 @@ To view or edit the project on your local machine, follow these steps:
 
 ## License
 
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/venmathi2004/tea-shop-website/blob/main/LICENSE) file for details.
 
 ## Contact
 
