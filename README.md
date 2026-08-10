@@ -2,6 +2,8 @@
 
 Welcome to the **Tea Shop** front-end project! This is a simple, responsive website built with HTML, CSS, and JavaScript to showcase a tea shop's online presence.
 
+🔗 **Live Demo:** [https://tea96.netlify.app/](https://tea96.netlify.app/)
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -23,29 +25,24 @@ Welcome to the **Tea Shop** front-end project! This is a simple, responsive webs
 
 ## Installation
 To view or edit the project on your local machine, follow these steps:
-
 1. Clone the repository:
-   ```bash
+````bash
    https://github.com/venmathi2004/tea-shop-website.git
 2. Navigate to the project directory:
-    ```bash
+```bash
     cd tea-shop-frontend
 ## Usage
-
 - Open the index.html file in your web browser to view the website.
-+ You can customize the content by editing the HTML, CSS, and JavaScript files in the project.
+- You can customize the content by editing the HTML, CSS, and JavaScript files in the project.
 
 ## Contributing
-
 - If you'd like to contribute to the project, please fork the repository and create a pull request with your changes. Contributions are always welcome!
 
 ## License
-
 - This project is licensed under the MIT License. See the [LICENSE](https://github.com/venmathi2004/tea-shop-website/blob/main/LICENSE) file for details.
 
 ## Contact
-
 - If you have any questions or feedback, feel free to reach out:
 - **Linkdlen:** [Venmathi Raj](https://www.linkedin.com/in/venmathi-raj-r-300b8a2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email:** venmathiraj2004@gmail.com
-
+```
