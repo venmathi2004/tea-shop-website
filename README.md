@@ -29,7 +29,7 @@ To view or edit the project on your local machine, follow these steps:
 ````bash
    https://github.com/venmathi2004/tea-shop-website.git
 2. Navigate to the project directory:
-```bash
+bash
     cd tea-shop-frontend
 ## Usage
 - Open the index.html file in your web browser to view the website.
@@ -45,4 +45,3 @@ To view or edit the project on your local machine, follow these steps:
 - If you have any questions or feedback, feel free to reach out:
 - **Linkdlen:** [Venmathi Raj](https://www.linkedin.com/in/venmathi-raj-r-300b8a2b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email:** venmathiraj2004@gmail.com
-```
