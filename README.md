@@ -26,7 +26,7 @@ Welcome to the **Tea Shop** front-end project! This is a simple, responsive webs
 ## Installation
 To view or edit the project on your local machine, follow these steps:
 1. Clone the repository:
-````bash
+bash
    https://github.com/venmathi2004/tea-shop-website.git
 2. Navigate to the project directory:
 bash
